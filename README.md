@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/reachsaranshlinkx-bit/minigpt-from-scratch/blob/main/MiniGPT_From_Scratch.ipynb)
+
 # MiniGPT. GPT From Scratch in PyTorch
 
 MiniGPT is a GPT-style language model that I built from scratch in PyTorch following the ideas taught in Andrej Karpathys GPT-from-scratch lecture.
